@@ -1,1 +1,1 @@
--- Your SQL here
+SELECT * FROM students WHERE date_of_birth <= '1994-07-17';
